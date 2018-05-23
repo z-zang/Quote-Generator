@@ -58,7 +58,7 @@ body {
   display: block;
   text-align: center;
   padding: 5px;
-  margin-top: 10vh;
+  margin-top: 12vh;
   font-size: 12px;
   color: grey;
 
@@ -84,9 +84,9 @@ body {
 
 }
 
-@media only screen and (max-height: 500px) {
+@media only screen and (max-height: 650px) {
   .footer{
-    margin-top: 60px;
+    margin-top: 70px;
     text-align: center;
   }
 }
