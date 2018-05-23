@@ -44,3 +44,10 @@ function buttonGenerate(){
   document.getElementById('authorbox').innerHTML = "";
   generateQuote();
 }
+
+function tweetLink(){
+  var tweetText = "https://twitter.com/intent/tweet?text="+document.getElementById("quotebox").innerHTML
+  + " " + document.getElementById("authorbox").innerHTML + ". More quotes: " + "z-zang.github.io/Quote-Generator/";
+  window.open(tweetText, "twitterwindow", "height=450, width=550, toolbar=0, location=0, menubar=0, directories=0, scrollbars=0")
+
+}
