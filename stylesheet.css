@@ -1,0 +1,61 @@
+body {
+  background-color: grey;
+}
+
+.main {
+  display: block;
+  margin: auto;
+  margin-top: 5vh;
+  height: 90vh;
+  width: 760px;
+  background-color: lightgrey;
+  padding: 20px;
+}
+
+.page-title{
+  text-align: center;
+  color: black;
+  font-size: 35px;
+  margin-bottom: 20px;
+  background-color: ;
+}
+
+.quote-wrapping{
+  display: block;
+  background-color: white;
+  padding: auto;
+}
+
+.quotebox-style{
+  display: block;
+  margin: 30px;
+  font-size: 35px;
+  font-family: 'IM Fell Double Pica', serif;
+
+
+}
+.authorbox-style{
+  display: block;
+  margin: 30px;
+  text-align: right;
+}
+
+.btn-div{
+  display: block;
+  margin-top: 20px;
+  float: right;
+}
+
+.footer {
+  display: block;
+  position: fixed;
+  bottom: 8vh;
+  padding: 10px;
+
+}
+
+@media only screen and (max-width: 830px) {
+    .main {
+        width: 90vw;
+    }
+}
