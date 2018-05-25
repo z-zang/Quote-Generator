@@ -14,7 +14,7 @@ var quotes = [
   ["I will remember and recover, not forgive and forget.", "Unknown"],
   ["When words fail, music speaks.", "Shakespeare"],
   ["Where there is power, there is resistance.","Michel Foucault"],
-  ["Be yourself; everyone else is already taken.","Oscar Wilde"],
+  ["Be yourself. Everyone else is already taken.","Oscar Wilde"],
   ["You only live once, but if you do it right, once is enough.","Mae West"],
   ["Be the change that you wish to see in the world.","Mahatma Gandhi"],
   ["Life is what happens to us while we are making other plans.","Allen Saunders"],
